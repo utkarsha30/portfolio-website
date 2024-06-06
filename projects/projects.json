@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Krushi Mitra Chat Bot",
+      "desc": "Krushi Mitra, your AI-powered farm assistant, keeps Maharashtra's farmers informed with the latest farming news, location-specific crop recommendations and agricultural innovations.",
+      "image": "krushimitra_chatbot",
+      "category": "Dialogflow",
+      "links": {
+        "view": "https://krushimitra-website.web.app"
+      }
+    },
+    {
+      "name": "Weather App",
+      "desc": "Weather app is a front-end website that provides weather information for various cities in degrees Celsius. It uses a weather API to fetch data",
+      "image": "weather_app",
+      "category": "Angular",
+      "links": {
+        "view": "https://weather-app-j5st.onrender.com"
+      }
+    },
+    {
+      "name": "Moneyplant App",
+      "desc": "Money Plant is an Angular mini-project developed during training. It functions as a search engine for experts, allowing users to find specialists based on location and specific skills.",
+      "image": "moneyplant_app",
+      "category": "Angular",
+      "links": {
+        "view": "https://moneyplant-app.onrender.com"
+      }
+    },
+    {
+      "name": "Meetings App",
+      "desc": "This is a meetings application where a user can create meetings and teams for their work purpose.They can also keep track of the meetings and teams they are included in it",
+      "image": "meetings_app",
+      "category": "MEVN",
+      "links": {
+        "view": "https://meetings-app.onrender.com"
+      }
+    },
+    {
+      "name": "Helpdesk App",
+      "desc": "Helpdesk App is an application that streamlines the issue resolution with ticketing, role-based access, and an FAQ system.",
+      "image": "helpdesk_app",
+      "category": "MEVN",
+      "links": {
+        "view": "https://fynd-helpdesk-app.netlify.app"
+      }
+    }
+    ]
+  
